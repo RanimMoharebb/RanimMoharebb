@@ -10,9 +10,9 @@ My approach focuses on understanding **core software engineering principles** ra
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-## Programming Languages
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts,cs,php" />
@@ -26,7 +26,7 @@ My approach focuses on understanding **core software engineering principles** ra
 
 ---
 
-## Frontend Development
+### Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,html,css" />
@@ -40,7 +40,7 @@ My approach focuses on understanding **core software engineering principles** ra
 
 ---
 
-## Backend Development
+### Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,laravel" />
@@ -54,7 +54,7 @@ My approach focuses on understanding **core software engineering principles** ra
 
 ---
 
-## Databases & Data Technologies
+### Databases & Data Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
@@ -67,7 +67,7 @@ My approach focuses on understanding **core software engineering principles** ra
 
 ---
 
-## Artificial Intelligence & Machine Learning
+### Artificial Intelligence & Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn" />
@@ -93,7 +93,7 @@ My approach focuses on understanding **core software engineering principles** ra
 
 ---
 
-## Software Engineering
+### Software Engineering
 
 ![OOP](https://img.shields.io/badge/Object--Oriented_Programming-00599C?style=for-the-badge&logo=code&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID_Principles-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -107,14 +107,14 @@ My approach focuses on understanding **core software engineering principles** ra
 
 ---
 
-## Software Testing
+### Software Testing
 
 ![Software Testing](https://img.shields.io/badge/Software_Testing-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![SDLC](https://img.shields.io/badge/SDLC-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ---
 
-## Tools & Technologies
+### Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,jira,visualstudio,vscode,jupyter,aws" />
@@ -136,7 +136,7 @@ My approach focuses on understanding **core software engineering principles** ra
 
 
 
-# 📊 GitHub Statistics
+### GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RanimMoharebb&show_icons=true&hide_border=true" alt="Ranim's GitHub Stats" />
@@ -152,36 +152,10 @@ My approach focuses on understanding **core software engineering principles** ra
 
 ---
 
-# Professional Development
-
-**AI Researcher** — SIDx Research Center
-
-**Teaching Assistant** — Alexandria University
-
----
-
-# Education
-
-**B.Sc. in Computer and Communication Engineering**  
-Artificial Intelligence Minor  
-**Faculty of Engineering, Alexandria University**
-
-**ITI Intensive Training Program**  
-Full Stack Web & Generative AI Development Using MERN
-
----
 
 
 
-# Languages
-
-- 🇪🇬 **Arabic:** Native
-- 🇬🇧 **English:** C1
-- 🇩🇪 **German:** B2
-
----
-
-# Let's Connect
+## Let's Connect
 
 <p align="left">
 
