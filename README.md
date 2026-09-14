@@ -152,7 +152,15 @@ My approach focuses on understanding **core software engineering principles** ra
 
 ---
 
-# Education & Professional Development
+# Professional Development
+
+**AI Researcher** — SIDx Research Center
+
+**Teaching Assistant** — Alexandria University
+
+---
+
+# Education
 
 **B.Sc. in Computer and Communication Engineering**  
 Artificial Intelligence Minor  
@@ -161,14 +169,9 @@ Artificial Intelligence Minor
 **ITI Intensive Training Program**  
 Full Stack Web & Generative AI Development Using MERN
 
-🔬 **AI Researcher** — SIDx Research Center
-
-👨‍🏫 **Teaching Assistant** — Alexandria University
-
-🇩🇪 **Up4Jobs German Scholarship Program**  
-German Language Training: A1 → C1
-
 ---
+
+
 
 # Languages
 
