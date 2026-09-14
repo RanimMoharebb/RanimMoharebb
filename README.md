@@ -1,6 +1,6 @@
 # Hi there, I'm Ranim Mohareb 👋
 
-### 💻 Full-Stack Software Engineer | 🤖 AI & Generative AI Developer | 🔬 AI Researcher
+### Full-Stack Software Engineer | AI & Generative AI Developer | AI Researcher
 
 I'm a **Full-Stack Software Engineer** from **Alexandria, Egypt**, passionate about building scalable web applications and integrating **AI-powered solutions** into real-world products.
 
@@ -10,33 +10,9 @@ My approach focuses on understanding **core software engineering principles** ra
 
 ---
 
-## 🚀 About Me
+# Tech Stack
 
-- 💻 Full-Stack Software Engineer with experience in **React.js, Next.js, Express.js, Node.js, .NET, and Laravel**
-- 🤖 Experienced in building **AI-powered applications** using **LLMs, RAG pipelines, AI Agents, and NLP**
-- 🔬 Currently working as an **AI Researcher at SIDx Research Center**
-- 👨‍🏫 Working as a **Teaching Assistant** in Artificial Intelligence courses, including **Deep Learning and Data Mining**
-- 🏥 Built healthcare-focused AI applications including **Med-Wasla, WaslaBot, and MediBot**
-- 🧠 Interested in **Generative AI, Self-Supervised Learning, Deep Learning, Biomedical AI, and Intelligent Systems**
-- 🌱 Continuously learning new technologies while strengthening my understanding of **software engineering fundamentals**
-- 🇩🇪 German language learner with **B2 proficiency**
-- 🌍 Based in **Alexandria, Egypt**
-
----
-
-## 🔭 Currently Working On
-
-- 🫀 **HeartSound-JEPA** — Researching self-supervised learning and JEPA-based approaches for biomedical heart sound analysis.
-- 🏥 Improving and developing AI-powered healthcare systems and conversational assistants.
-- 🤖 Exploring **LLMs, RAG architectures, AI Agents, and Generative AI systems**.
-- 💻 Developing full-stack applications with **React, Next.js, Node.js, and modern backend technologies**.
-- 🔬 Researching and optimizing **AI models for biomedical applications**.
-
----
-
-# 🛠️ Tech Stack
-
-## 💻 Programming Languages
+## Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts,cs,php" />
@@ -50,7 +26,7 @@ My approach focuses on understanding **core software engineering principles** ra
 
 ---
 
-## 🎨 Frontend Development
+## Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,html,css" />
@@ -64,7 +40,7 @@ My approach focuses on understanding **core software engineering principles** ra
 
 ---
 
-## ⚙️ Backend Development
+## Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,laravel" />
@@ -78,7 +54,7 @@ My approach focuses on understanding **core software engineering principles** ra
 
 ---
 
-## 🗄️ Databases & Data Technologies
+## Databases & Data Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
@@ -91,7 +67,7 @@ My approach focuses on understanding **core software engineering principles** ra
 
 ---
 
-## 🤖 Artificial Intelligence & Machine Learning
+## Artificial Intelligence & Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn" />
@@ -107,7 +83,7 @@ My approach focuses on understanding **core software engineering principles** ra
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Data Mining](https://img.shields.io/badge/Data_Mining-FF6F00?style=for-the-badge&logo=apache&logoColor=white)
 
-### 🧠 Generative AI
+### Generative AI
 
 ![LLMs](https://img.shields.io/badge/Large_Language_Models-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-008080?style=for-the-badge&logo=databricks&logoColor=white)
@@ -117,7 +93,7 @@ My approach focuses on understanding **core software engineering principles** ra
 
 ---
 
-## 🏗️ Software Engineering
+## Software Engineering
 
 ![OOP](https://img.shields.io/badge/Object--Oriented_Programming-00599C?style=for-the-badge&logo=code&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID_Principles-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -131,14 +107,14 @@ My approach focuses on understanding **core software engineering principles** ra
 
 ---
 
-## 🧪 Software Testing
+## Software Testing
 
 ![Software Testing](https://img.shields.io/badge/Software_Testing-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![SDLC](https://img.shields.io/badge/SDLC-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,jira,visualstudio,vscode,jupyter,aws" />
@@ -154,106 +130,11 @@ My approach focuses on understanding **core software engineering principles** ra
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
----
 
-# 🌟 Featured Projects
-
-## 🏥 Med-Wasla
-
-A healthcare booking and management platform connecting **patients, doctors, nurses, and home healthcare providers**.
-
-### Key Features
-
-- 👥 Role-based access for administrators, medical specialists, and patients
-- 🏥 Healthcare booking and management system
-- 🤖 **WaslaBot** — AI-powered healthcare chatbot
-- 🧠 Locally hosted medical **LLM**
-- 🔎 **RAG pipeline** for medical knowledge retrieval
-- 🗄️ Database-driven platform queries
-- 💬 Multi-chat conversations
-- 🧠 Persistent conversation history and memory
-
-**Tech Stack:** MERN, LLMs, RAG, AI
-
-🔗 [Repository](https://github.com/RanimMoharebb/med-wasla)  
-🌐 [Live Demo](https://med-wasla.vercel.app/)
 
 ---
 
-## 🤖 MediBot
 
-An AI-powered medical chatbot built using a medical **LLM**, **Ollama**, and a **RAG pipeline**.
-
-### Key Features
-
-- 🩺 AI-powered medical conversations
-- 🧠 Medical LLM integration through Ollama
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 💬 Multi-turn conversations
-- 🧠 Context management
-- 🔐 User authentication system
-
-**Tech Stack:** React.js, Express.js, Python, MySQL, Ollama, LLMs, RAG
-
-🔗 [Repository](https://github.com/RanimMoharebb/MediBot)
-
----
-
-## 🫀 HeartSound-JEPA
-
-A biomedical AI research project exploring **Joint Embedding Predictive Architecture (JEPA)** and **self-supervised learning** for heart sound analysis.
-
-### Research Areas
-
-- 🫀 Biomedical signal processing
-- 🧠 Self-supervised learning
-- 🤖 Deep Learning
-- 🎵 Heart sound representation learning
-- 📊 Model evaluation and optimization
-
-🔗 [Repository](https://github.com/RanimMoharebb/HeartSound-JEPA)
-
----
-
-## 💼 HireGate
-
-A recruitment platform developed during my internship at **Enozom**.
-
-### Key Features
-
-- 👥 Role-based workflows
-- 🧑‍💼 Administrator, HR manager, and candidate roles
-- 📝 Exam management
-- 👤 Candidate management
-- 🏗️ Layered Architecture
-- 📦 Repository Pattern
-- 🔄 Agile development practices
-
-**Tech Stack:** .NET, Entity Framework Core, MySQL, Next.js
-
-🔗 [Repository](https://github.com/RanimMoharebb/HireGate)
-
----
-
-## 🛒 My Store
-
-An e-commerce and store management application developed using Laravel.
-
-### Key Features
-
-- 📦 Product management
-- 🗂️ Category management
-- 🛒 Order management
-- 👥 User management
-- 🔐 Authentication and authorization
-- 🔌 RESTful APIs
-- 🏗️ MVC Architecture
-
-**Tech Stack:** Laravel, PHP, MySQL, Laravel Breeze, Sanctum
-
-🔗 [Repository](https://github.com/RanimMoharebb/My-Store)
-
----
 
 # 📊 GitHub Statistics
 
@@ -271,13 +152,13 @@ An e-commerce and store management application developed using Laravel.
 
 ---
 
-# 🎓 Education & Professional Development
+# Education & Professional Development
 
-🎓 **B.Sc. in Computer and Communication Engineering**  
+**B.Sc. in Computer and Communication Engineering**  
 Artificial Intelligence Minor  
 **Faculty of Engineering, Alexandria University**
 
-🎓 **ITI Intensive Training Program**  
+**ITI Intensive Training Program**  
 Full Stack Web & Generative AI Development Using MERN
 
 🔬 **AI Researcher** — SIDx Research Center
@@ -289,7 +170,7 @@ German Language Training: A1 → C1
 
 ---
 
-# 🌍 Languages
+# Languages
 
 - 🇪🇬 **Arabic:** Native
 - 🇬🇧 **English:** C1
@@ -297,7 +178,7 @@ German Language Training: A1 → C1
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 <p align="left">
 
