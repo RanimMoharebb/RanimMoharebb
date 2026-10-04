@@ -1,6 +1,6 @@
 # Hi there, I'm Ranim Mohareb 👋
 
-### Full-Stack Software Engineer | AI & Generative AI Developer | AI Researcher
+### Full-Stack Software Developer | AI Engineer | AI Researcher
 
 I'm a **Full-Stack Software Engineer** from **Alexandria, Egypt**, passionate about building scalable web applications and integrating **AI-powered solutions** into real-world products.
 
